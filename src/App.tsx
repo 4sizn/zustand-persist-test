@@ -1,12 +1,12 @@
 import "./App.css";
-import Todo from "../app/components/Todo";
+import Todo from "./components/Todo";
 
 function App() {
-	return (
-		<>
-			<Todo />
-		</>
-	);
+  return (
+    <>
+      <Todo />
+    </>
+  );
 }
 
 export default App;
